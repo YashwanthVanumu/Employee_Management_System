@@ -1,4 +1,4 @@
-# Emplyee_Management_System
+# Employee_Management_System
 
 Employee management system using OOPS.
 It allows users to add employees, display employee details, and search for employees by their ID.
